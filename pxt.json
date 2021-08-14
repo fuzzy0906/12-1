@@ -1,0 +1,30 @@
+{
+    "name": "單元12-自製音樂盒",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "mbit": "github:lzty634158/yahboom_mbit_tr#f07452e43ec3a65ecdba35c712ab87a0c015cdd9",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.2.13",
+        "tag": "v1.2.13",
+        "commits": "https://github.com/Microsoft/pxt-microbit/commits/5d5b348757b15c6d00f5b7f560fd69592ca29424",
+        "target": "4.0.11",
+        "pxt": "4.4.7",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
